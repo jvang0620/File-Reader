@@ -3,7 +3,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.concurrent.CompletableFuture;
 
-public class AsyncFileReader {
+public class asyncFileReader {
 
     public static void main(String[] args) {
         String filePath = "sample.txt";
