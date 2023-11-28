@@ -16,7 +16,7 @@ std::string readFileAsync(const std::string &filePath)
     }
     else
     {
-        // Throwing a runtime exception for error handling
+        // Throwing a runtime exception for error  handling
         throw std::runtime_error("C++ Error: Unable to open file");
     }
 }
